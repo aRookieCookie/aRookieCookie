@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Thijmen/aRookieCookie
+<img src="https://readme-img.onrender.com/api/banner?username=aRookieCookie&template=creative2&bg=dark&font=inter" alt="aRookieCookie's GitHub Stats" />
 
 ### 🤖 Algorithm | Pythoneer | Learner
 
-I'm a software enthusiast passionate about bridging the gap between human creativity and machine intelligence. I spend my time building clean code, exploring LLMs, and occasionally arguing with compilers.
+I'm a software enthusiast about bridging the gap between human creativity and machine intelligence. I spend my time building clean code, exploring LLMs, and occasionally arguing with compilers.
 
 ---
 
@@ -21,7 +21,7 @@ I'm a software enthusiast passionate about bridging the gap between human creati
 ## 🚀 What I'm Up To
 
 - 🔭 **Currently working on:** Gamedevelopment.
-- 🌱 **Learning:** OpenGl... 😭 (Shaders, VBO's, i dont UNDERSTANDDDDD)
+- 🌱 **Learning:** Flask / CustomTKinter
 - 💬 **Ask me about:** Python, OOP
 - ⚡ **Fun fact:** I like red pandas
 
